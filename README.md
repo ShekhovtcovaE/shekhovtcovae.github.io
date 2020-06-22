@@ -22,3 +22,5 @@
         - Задание №1: [SASS](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/sc.scss) [CSS](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/cs.css)
     - ### Тема №2
         - [Задание №2](https://docs.google.com/presentation/d/1AIRYkj0B7VRdltxhpH6Uy42l6gjkLVOIyrfJA88kd4w/edit?usp=sharing)
+    - ### Тема №3
+        - [Задание №1](https://kodaktor.ru/g/9edb3a9_efd01)

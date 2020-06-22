@@ -10,8 +10,8 @@
 
 - ## Инвариантные самостоятельные работы
     - ### Тема №1
-        - (XML)[https://https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml]
-        - (DTD)[https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/doc.dtd]
+        - (XML](https://https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml]
+        - (DTD](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/doc.dtd]
     - ### Тема №2
         - (Задание №2)[https://kodaktor.ru/9edb3a9]
     - ### Тема №3

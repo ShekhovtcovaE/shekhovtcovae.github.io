@@ -10,15 +10,15 @@
 
 - ## Инвариантные самостоятельные работы
     - ### Тема №1
-        - [https://https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml](XML)
-        - [https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/doc.dtd](DTD)
+        - (XML)[https://https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml]
+        - (DTD)[https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/doc.dtd]
     - ### Тема №2
-        - [https://kodaktor.ru/9edb3a9](Задание №2)
+        - (Задание №2)[https://kodaktor.ru/9edb3a9]
     - ### Тема №3
-        - [https://kodaktor.ru/9edb3a9_abf94](Задание №1)
-        - [https://kodaktor.ru/9edb3a9_e3084](Задание №2)
+        - (Задание №1)[https://kodaktor.ru/9edb3a9_abf94]
+        - (Задание №2)[https://kodaktor.ru/9edb3a9_e3084]
 - ## Вариативные самостоятельные работы
     - ### Тема №1
-        - Задание №1: [https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/sc.scss](SASS) [https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/cs.css](CSS)
+        - Задание №1: (SASS)[https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/sc.scss] (CSS)[https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/cs.css]
     - ### Тема №2
-        - [https://docs.google.com/presentation/d/1AIRYkj0B7VRdltxhpH6Uy42l6gjkLVOIyrfJA88kd4w/edit?usp=sharing](Задание №2)
+        - (Задание №2)[https://docs.google.com/presentation/d/1AIRYkj0B7VRdltxhpH6Uy42l6gjkLVOIyrfJA88kd4w/edit?usp=sharing]

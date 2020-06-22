@@ -1,4 +1,5 @@
-# Web-portfolio
+# Веб-проектирование
+# [Обогащенные интерфейсы веб-приложений](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web2.md)
 ## 04.09.2019 - 07.09.2019 – неделя 1
 ![Node](https://github.com/ShekhovtcovaE/web-portfolio/raw/master/images/node.png)
 

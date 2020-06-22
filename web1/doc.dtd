@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT portfolio (web)>
+<!ELEMENT web (lab,itask,vtask)>
+<!ELEMENT lab (file)+>
+<!ELEMENT itask (file)+>
+<!ELEMENT vtask (file)+>
+<!ELEMENT file (#PCDATA)>

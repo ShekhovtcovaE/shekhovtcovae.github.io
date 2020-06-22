@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE portfolio SYSTEM "doc.dtd">
+<portfolio>
+	<web>
+		<lab>
+			<file>Лабораторная №1</file>
+			<file>Лабораторная №2</file>
+			<file>Лабораторная №3</file>
+		</lab>
+		<itask>
+			<file>ИСР №1</file>
+			<file>ИСР №2</file>
+			<file>ИСР №3</file>
+		</itask>
+		<vtask>
+			<file>ВСР №1</file>
+			<file>ВСР №2</file>
+			<file>ВСР №3</file>
+		</vtask>
+	</web>
+</portfolio>

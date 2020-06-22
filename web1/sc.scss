@@ -1,0 +1,42 @@
+$font1: Tahoma, sans-serif;
+$color1:#fbfbfd;
+
+body {
+  font: 100% $font1;
+  background-color: $color1;
+  color: #0a1c27;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.menu {
+    display: flex;
+    li{
+      list-style-type: none;
+      display: inline;
+      background-color: #950020;
+      padding: 10px;
+      color: $color1;
+    }
+  }
+  
+li {
+    h2 {
+      
+      background-color: #e5ecf3;
+      color: #dd5b6c;
+      margin: 3px;
+      list-style-type: none;
+      padding: 5px;
+    }
+    h3 {
+      font: 90% $font1;
+      margin: 10px;
+      padding: 5px;
+    }
+    h4 {
+      display: inline;
+    }
+}

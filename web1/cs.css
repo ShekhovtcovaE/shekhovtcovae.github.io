@@ -1,0 +1,36 @@
+body {
+  font: 100% Tahoma, sans-serif;
+  background-color: #fbfbfd;
+  color: #0a1c27;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.menu {
+  display: flex;
+}
+.menu li {
+  list-style-type: none;
+  display: inline;
+  background-color: #950020;
+  padding: 10px;
+  color: #fbfbfd;
+}
+
+li h2 {
+  background-color: #e5ecf3;
+  color: #dd5b6c;
+  margin: 3px;
+  list-style-type: none;
+  padding: 5px;
+}
+li h3 {
+  font: 90% Tahoma, sans-serif;
+  margin: 10px;
+  padding: 5px;
+}
+li h4 {
+  display: inline;
+}

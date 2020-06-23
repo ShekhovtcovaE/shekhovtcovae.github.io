@@ -1,5 +1,6 @@
 # [Веб-проектирование](https://shekhovtcovae.github.io/web-portfolio/)
 # Обогащенные интерфейсы веб-приложений
+# [Компьютерный практикум](https://shekhovtcovae.github.io/web-portfolio/cp)
 - ## Инвариантные самостоятельные работы
     - ### Тема №1
         - [Задание №1](https://kodaktor.ru/9edb3a9_a09d4)

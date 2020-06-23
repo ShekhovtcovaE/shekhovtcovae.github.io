@@ -1,7 +1,7 @@
 # [Веб-проектирование](https://shekhovtcovae.github.io/web-portfolio/)
 # [Обогащенные интерфейсы веб-приложений](https://shekhovtcovae.github.io/web-portfolio/web2)
 # Компьютерный практикум
-
+***
 - ## Инвариантные самостоятельные работы
     - ### Тема №1
         - [Задание №1](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/CP/isr/cmjs.md)

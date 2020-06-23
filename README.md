@@ -11,6 +11,7 @@
         - [XML](https://https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml)
         - [DTD](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/doc.dtd)
     - ### Тема №2
+        - [Задание №1](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/images/npmyarn.jpg)
         - [Задание №2](https://kodaktor.ru/9edb3a9)
     - ### Тема №3
         - [Задание №1](https://kodaktor.ru/9edb3a9_abf94)

@@ -13,6 +13,7 @@
     - ### Тема №4
         - [Задание №1](https://stackblitz.com/edit/react-qtmp21?file=index.js)
         - [Задание №2](https://stackblitz.com/edit/react-j5erph?file=index.js)
+        - Задание №4: [Бандлер](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/CP/vsr/wbpck.md) [Транспилятор](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/CP/isr/cmjs.md)
 - ## Вариативные самостоятельные работы
     - ### Тема №1
         - [Задание №1](https://docs.google.com/presentation/d/1ts91paCsowm2INrYRhK7PJxITBsARu0Yj7M8i3upvaQ/edit?usp=sharing)

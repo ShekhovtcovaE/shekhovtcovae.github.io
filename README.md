@@ -1,6 +1,7 @@
 # Веб-проектирование
 # [Обогащенные интерфейсы веб-приложений](https://shekhovtcovae.github.io/web-portfolio/web2)
 # [Компьютерный практикум](https://shekhovtcovae.github.io/web-portfolio/cp)
+***
 ## 04.09.2019 - 07.09.2019 – неделя 1
 ![Node](https://github.com/ShekhovtcovaE/web-portfolio/raw/master/images/node.png)
 

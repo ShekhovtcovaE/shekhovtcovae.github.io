@@ -10,7 +10,7 @@
 
 - ## Инвариантные самостоятельные работы
     - ### Тема №1
-        - [XML](https://https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml)
+        - [XML](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/portfolio.xml)
         - [DTD](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/web1/doc.dtd)
     - ### Тема №2
         - [Задание №1](https://github.com/ShekhovtcovaE/web-portfolio/blob/master/images/npmyarn.jpg)
